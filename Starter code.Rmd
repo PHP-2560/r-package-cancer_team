@@ -16,6 +16,10 @@ knitr::opts_chunk$set(echo = FALSE)
 
 # I would like to use some of the code to get started on my map, my map will include data for the U.S. only and will give the user the ability to calculate their risk for CRC using paraemeters that the user clicks on such as sex, Race/Ethnicity, age, state, annual income, and bmi.
 
+
+# The package will be used to generate different models for risk assesments.s
+
+
 ## server.R
 
 library(shiny)
@@ -80,12 +84,6 @@ main= “New cases of breast cancer in the world, 2002”)
 })
 
 })
-
-
-
-
-
-
 
 
 ``
