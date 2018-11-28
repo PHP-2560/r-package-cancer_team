@@ -6,6 +6,7 @@ r-package-cancer_team created by GitHub Classroom
 
 Our package will scrape data from the CDC's United States Cancer Statistics.
 
-Goal:
+Goals:
 - User interactive features that allows one to calculate their colon cancer risk based on age, BMI, sex, state, socioeconomic status, Race/Ethnicity
-- Intercative map of colon cancer prevelance for different categories accross the U.S.
+- Interactive map of colon cancer prevelance accross different states in the U.S. based on a number of checked categories
+- Graphics generated from different prediction models to show user which categories/variables are more important for colon cancer risk assesment
